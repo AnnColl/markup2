@@ -1,0 +1,64 @@
+body {
+    background:#efefef;
+    color:#60414e;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size:40px;
+    font-weight: 400;
+    /*text-transform:uppercase;*/
+    line-height:35px;
+    letter-spacing: -1px;
+    margin-left:60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* original colours ffd361- my favorite colour but does not work for this, and 60414e or 604e4e or #efefef */
+h2{
+    font-size:28px;
+    margin-right:160px;
+    margin-left:60px;
+   
+
+}
+h3{
+    font-size:25px;
+    color: #2374e2;
+    margin-left:60px;
+
+
+}
+h4{
+    font-size:20px;
+    color: #2374e2;
+    margin-left:60px;
+}
+p{
+    font-size:16px;
+    margin-left: 80px;
+    margin-right:300px;
+    margin-top: 28px;
+
+}
+em{
+    margin-left:60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+li{
+    margin-left:160px;
+
+}
+
+main {
+    max-width:900px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:400px;
+    margin-top:50px;
+    padding: 100px;
+   /* border-style:groove;
+    border-width:3px;
+    border-color:#ffd361; */
+
+
+
+}
